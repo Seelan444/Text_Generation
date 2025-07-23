@@ -1,15 +1,15 @@
-# 🧠 Shakespeare Text Generator 🎭
+#  Shakespeare Text Generator 
 
 This project trains a character-level LSTM model using TensorFlow to generate new text in the style of William Shakespeare.
 
-## 💡 What It Does
+##  What It Does
 
 - Learns the structure of Shakespearean text
 - Generates brand new dialogue based on a seed string
 - Mimics poetic form, grammar, and character names
 - Lets you control creativity with a "temperature" parameter
 
-## 🧪 Technologies Used
+##  Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -17,7 +17,7 @@ This project trains a character-level LSTM model using TensorFlow to generate ne
 - LSTM (Long Short-Term Memory)
 - Matplotlib (for loss plots)
 
-## 🚀 How It Works
+##  How It Works
 
 1. Loads the Tiny Shakespeare dataset (~100k characters)
 2. Converts characters to integers (char2idx)
@@ -33,7 +33,7 @@ This project trains a character-level LSTM model using TensorFlow to generate ne
 <img width="688" height="548" alt="Screenshot 2025-07-23 164010" src="https://github.com/user-attachments/assets/39bcb2db-e2c2-4a5b-aab4-41b29e6dc63f" />
 
 
-## 📝 Output
+##  Output
 
 📝 Generated Text:
 
